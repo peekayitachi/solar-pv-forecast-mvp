@@ -1,0 +1,12 @@
+streamlit
+fastapi
+uvicorn
+lightgbm
+pandas
+numpy
+scikit-learn
+pvlib
+requests
+matplotlib
+properscoring
+pyyaml

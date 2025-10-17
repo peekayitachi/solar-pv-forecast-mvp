@@ -1,0 +1,15 @@
+# Python & caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Envs
+.venv/
+.env
+
+# Data & models
+data/*
+!data/.gitkeep
+models/
+artifacts/
+outputs/
