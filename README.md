@@ -1,4 +1,4 @@
-# PSH & Solar Energy Insight — One-File MVP
+# SunShift – Energy Estimator Based on Daily Peak Sun Hours
 
 A single-file **Streamlit** app that estimates **Peak Sun Hours (PSH)** and **energy output** from free **Open-Meteo** data for major Indian metros and global cities.
 
@@ -10,7 +10,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\.venv\Scripts\Activate.ps1
 pip install --upgrade pip
 pip install -r requirements.txt
-streamlit run .pp\PSHExplorer.py
+streamlit run .app\PSHExplorer.py
 ```
 
 ## Features
